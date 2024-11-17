@@ -92,4 +92,3 @@ The API implements proper error handling with appropriate HTTP status codes:
 - JWT tokens are signed using RSA (asymmetric encryption)
 - Database connection is protected with environment variables
 - Input validation using Pydantic models
-'''
